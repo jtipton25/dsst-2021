@@ -538,7 +538,7 @@ knitr::include_graphics("./images/Survivorship-bias.png")
 
 --
 
-* Unvaccinated individuals are 13 times more likely to become infected and 20 times more likely to experience death due to covid-19 than unvaccinated individuals [Texas Department of Health](https://www.dshs.texas.gov/immunize/covid19/data/cases-and-deaths-by-vaccination-status-11082021.pdf)
+* Unvaccinated individuals are 13 times more likely to become infected and 20 times more likely to experience death due to covid-19 than vaccinated individuals [Texas Department of Health](https://www.dshs.texas.gov/immunize/covid19/data/cases-and-deaths-by-vaccination-status-11082021.pdf)
 --
 
   * Does the covid-19 vaccination work?
